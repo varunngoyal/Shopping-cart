@@ -14,6 +14,8 @@ This is the REST API which performs CRUD operations on users and items and also 
 3. Update a user : /user/update/<uid>
 4. Delete a user : /user/delete/<uid>
 5. Get a user    : /user/<uid>
+  
+<img src="https://i.ibb.co/n898n3r/Screenshot-from-2020-11-30-11-12-03.png" />
 
 ### Items
 1. Get all items : /items
